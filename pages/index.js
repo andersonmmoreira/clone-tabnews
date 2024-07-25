@@ -1,5 +1,6 @@
 function Home (){
-    return <h1>Atualizando em tempo real junto com zap</h1>
+    return <h1>Home</h1>
+            
 }
 
 export default Home;
